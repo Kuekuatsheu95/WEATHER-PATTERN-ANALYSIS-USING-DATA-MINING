@@ -1,0 +1,2 @@
+# WEATHER-PATTERN-ANALYSIS-USING-DATA-MINING
+Artificial Neural Networks (ANN) is widely being used to classify and also predict weather patterns. Back propagation algorithms using ANN gives accurate predictions for noisy data which have been rolled up during pre-processing. Here we will implement the back propagation algorithm using MATLAB R2017a to simulate and test an ANN for weather pattern analysis.
